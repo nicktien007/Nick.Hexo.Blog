@@ -22,14 +22,14 @@ jobs:
         with:
           # 這裡是那個網站在 github 上的 repo 名稱
           repository: nicktien007/nicktien007.github.io
-          # path: public
+          path: /
           # 然後我 secrets 裡的名稱就叫 GITHUB_PAT，用別的名稱的話記得改掉
           # 參考 https://help.github.com/en/actions/automating-your-workflow-with-github-actions/authenticating-with-the-github_token
           token: ${{ secrets.ACCESS_TOKEN }}
 
       # 將檔案 commit 到 網站 repo
       - name: deploy and publish updates
-#        working-directory: ./public
+        working-directory: ./public
         # user.email 還有 user.name 可以取自己喜歡的，一定要設定不然會出錯
         run: |
           git config --local user.email "action@github.com"
