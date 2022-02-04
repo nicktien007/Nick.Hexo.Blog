@@ -22,7 +22,7 @@ jobs:
         with:
           # 這裡是那個網站在 github 上的 repo 名稱
           repository: nicktien007/nicktien007.github.io
-          path: /
+#          path: /
           # 然後我 secrets 裡的名稱就叫 GITHUB_PAT，用別的名稱的話記得改掉
           # 參考 https://help.github.com/en/actions/automating-your-workflow-with-github-actions/authenticating-with-the-github_token
           token: ${{ secrets.ACCESS_TOKEN }}
