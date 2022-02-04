@@ -33,7 +33,7 @@ jobs:
 
       # 我發現 Hugo 會產生一堆 min.[hash].* 檔案，所以這裡我先把舊檔案清除
       - name: cleanup files of public site
-        working-directory: ./public
+        working-directory: public
         shell: bash
         run: find . -type f -name '*.min.*' -exec rm -f {} \;
 
@@ -44,7 +44,7 @@ jobs:
 
       # 將檔案 commit 到 網站 repo
       - name: deploy and publish updates
-        working-directory: ./public
+        working-directory: public
         # user.email 還有 user.name 可以取自己喜歡的，一定要設定不然會出錯
         run: |
           git config --local user.email "action@github.com"
