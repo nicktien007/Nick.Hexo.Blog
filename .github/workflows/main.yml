@@ -39,7 +39,7 @@ jobs:
 
       # 開始用 Hugo 產生檔案囉
       - name: build content to public site
-        working-directory: ./public
+        working-directory: public
         run: hugo --minify --gc
 
       # 將檔案 commit 到 網站 repo
