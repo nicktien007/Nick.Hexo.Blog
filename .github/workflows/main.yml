@@ -7,25 +7,40 @@ jobs:
   build-and-deploy:
     runs-on: ubuntu-latest
     steps:
-      - name: Build 🔧
-        uses: actions/checkout@v2 # If you're using actions/checkout@v2 you must set persist-credentials to false in most cases for the deployment to work correctly.
-      - uses: actions/setup-node@v1
-        with:
-          node-version: '10.x'
-      - run: |
-          npm install -g hexo-cli
-          npm install
-          npm run build
+      # 使用當前的 repo
+      - name: checkout private repo
+        uses: actions/checkout@v2
 
+      # 我的公開網站是放置在另一個 repo 所以這裡也要 clone 一份下來處理
+      # 因為我 Hugo 預設是產生檔案到 public 資料夾，所以這邊我也是 clone 到那裡
       - name: checkout public repo
         uses: actions/checkout@v2
         with:
           # 這裡是那個網站在 github 上的 repo 名稱
           repository: nicktien007/nicktien007.github.io
-#          path: /
+#          path: public
+          # 記得去產生一把 personal access token 放到 repo 的 secrets 裡
           # 然後我 secrets 裡的名稱就叫 GITHUB_PAT，用別的名稱的話記得改掉
           # 參考 https://help.github.com/en/actions/automating-your-workflow-with-github-actions/authenticating-with-the-github_token
           token: ${{ secrets.ACCESS_TOKEN }}
+
+      # 使用別人做好的 Hugo Actions
+      - name: setup hugo
+        uses: peaceiris/actions-hugo@v2
+        with:
+          hugo-version: latest
+          extended: true
+
+      # 我發現 Hugo 會產生一堆 min.[hash].* 檔案，所以這裡我先把舊檔案清除
+      - name: cleanup files of public site
+        working-directory: ./public
+        shell: bash
+        run: find . -type f -name '*.min.*' -exec rm -f {} \;
+
+      # 開始用 Hugo 產生檔案囉
+      - name: build content to public site
+        working-directory: ./
+        run: hugo --minify --gc
 
       # 將檔案 commit 到 網站 repo
       - name: deploy and publish updates
@@ -37,9 +52,3 @@ jobs:
           git add . -A
           git commit -m "[chore] Auto publish"
           git push origin
-
-      # - name: Deploy 🚀
-      #  uses: peaceiris/actions-gh-pages@v3
-      #  with:
-      #    github_token: ${{ secrets.ACCESS_TOKEN }}
-      #    publish_dir: ./public
