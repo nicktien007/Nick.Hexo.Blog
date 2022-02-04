@@ -32,10 +32,10 @@ jobs:
           extended: true
 
       # 我發現 Hugo 會產生一堆 min.[hash].* 檔案，所以這裡我先把舊檔案清除
-      - name: cleanup files of public site
-        working-directory: public
-        shell: bash
-        run: find . -type f -name '*.min.*' -exec rm -f {} \;
+#      - name: cleanup files of public site
+#        working-directory: public
+#        shell: bash
+#        run: find . -type f -name '*.min.*' -exec rm -f {} \;
 
       # 開始用 Hugo 產生檔案囉
       - name: build content to public site
