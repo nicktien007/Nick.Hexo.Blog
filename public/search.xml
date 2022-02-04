@@ -1,0 +1,827 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  <entry>
+    <title>2017 未來商務展</title>
+    <url>/sideproject/20170818/2468639948/</url>
+    <content><![CDATA[<p><img src="/images/img-26.png"></p>
+<h2 id="特點"><a href="#特點" class="headerlink" title="特點"></a>特點</h2><ul>
+<li>Google OAuth 2.0 登錄</li>
+<li>FullCalendar</li>
+<li>Api介接同步資料</li>
+</ul>
+]]></content>
+      <categories>
+        <category>作品集</category>
+      </categories>
+      <tags>
+        <tag>入口網</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>SCRUM 計點工具</title>
+    <url>/sideproject/20180311/3502048096/</url>
+    <content><![CDATA[<p><img src="/images/img-24.png"></p>
+<h2 id="特點"><a href="#特點" class="headerlink" title="特點"></a>特點</h2><ul>
+<li>採用WPF – MVVM 開發</li>
+<li>介接LeankitApi</li>
+<li>自動計算Scrum點數</li>
+</ul>
+]]></content>
+      <categories>
+        <category>作品集</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>WONDER TOUR智慧體驗旅遊平台</title>
+    <url>/sideproject/20171121/2030370342/</url>
+    <content><![CDATA[<p><img src="/images/img-29.png"></p>
+<h2 id="WONDER-TOUR-5大特色服務，創造民眾有感體驗"><a href="#WONDER-TOUR-5大特色服務，創造民眾有感體驗" class="headerlink" title="WONDER TOUR 5大特色服務，創造民眾有感體驗"></a>WONDER TOUR 5大特色服務，創造民眾有感體驗</h2><h3 id="1-快速集客，遊客慕名湧來！"><a href="#1-快速集客，遊客慕名湧來！" class="headerlink" title="1 快速集客，遊客慕名湧來！"></a>1 快速集客，遊客慕名湧來！</h3><p>Wonder Tour依所在區域及興趣內容智慧推薦活動景點及好康優惠，讓顧客不錯失任何資訊，吸引親臨現場體驗。</p>
+<h3 id="2-個人體驗，專屬您的服務！"><a href="#2-個人體驗，專屬您的服務！" class="headerlink" title="2 個人體驗，專屬您的服務！"></a>2 個人體驗，專屬您的服務！</h3><p>Wonder Tour如同隨身導遊帶領顧客探索園區每個角落。虛擬體驗、語音導覽、擴增實境等科技，創造顧客有感體驗。</p>
+<h3 id="3-互動樂趣，增加遊客記憶！"><a href="#3-互動樂趣，增加遊客記憶！" class="headerlink" title="3 互動樂趣，增加遊客記憶！"></a>3 互動樂趣，增加遊客記憶！</h3><p>結合園區互動看板提供DIY體驗、互動射飛鏢、限時搖金幣、闖關集章拿優惠…等趣味遊戲，園區好玩到停不了！</p>
+<h3 id="4-行動消費，立馬線上訂購！"><a href="#4-行動消費，立馬線上訂購！" class="headerlink" title="4 行動消費，立馬線上訂購！"></a>4 行動消費，立馬線上訂購！</h3><p>Wonder Tour 24hr線上不打烊，蒐集全台商品資訊，讓顧客不限時空限制、盡情shopping！結合社群登入、線上金流，輕鬆購物很便利。</p>
+<h3 id="5-商務分析，掌握消費行為！"><a href="#5-商務分析，掌握消費行為！" class="headerlink" title="5 商務分析，掌握消費行為！"></a>5 商務分析，掌握消費行為！</h3><p>蒐集社群平台及園區顧客行為流程，發掘潛在客戶及商機，瞭解熱門度及顧客商品喜好。懂得消費者行為，才能搶佔商機。</p>
+<h2 id="特點"><a href="#特點" class="headerlink" title="特點"></a>特點</h2><ul>
+<li>Microsoft Azure：雲端服務</li>
+<li>SQL Project 資料庫專案</li>
+<li>WebAPI</li>
+</ul>
+]]></content>
+      <categories>
+        <category>作品集</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>這是一個測試</title>
+    <url>/techdoc/20220204/652817500/</url>
+    <content><![CDATA[<h1 id="這是一個測試"><a href="#這是一個測試" class="headerlink" title="這是一個測試"></a>這是一個測試</h1><p>aaaaaa</p>
+<p>bbb</p>
+]]></content>
+      <categories>
+        <category>techdoc</category>
+      </categories>
+      <tags>
+        <tag>presentation</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>內政部公有土地管理地理資訊系統</title>
+    <url>/sideproject/20160328/2941290366/</url>
+    <content><![CDATA[<p><img src="/images/img-13.png"></p>
+<h2 id="簡介"><a href="#簡介" class="headerlink" title="簡介"></a>簡介</h2><p>內政部(以下簡稱 貴部) 鑑於各縣市政府對於地理資訊應用系統需求殷切，所需系統功能或有類似情形，為避免重複建置，爰考量規劃及開發有關縣市政府為民服務及施政輔助之共通性地理資訊應用系統，俾利節省公帑並彰顯國土資訊系統推動成效。本案包含「都市計畫土地使用分區查詢及核發資訊系統」(以下簡稱分區系統)及「公有土地管理地理資訊系統」(以下簡稱公地系統)2個資訊系統， 貴部於99及100年度委由巨鷗科技股份有限公司分別開發供縣市政府使用。其中分區系統99年提供桃園縣及新竹縣政府使用，100年度提供彰化縣及雲林縣政府使用，101年度進一步提供澎湖縣政府使用;公地系統100年度提供彰化縣及南投縣政府使用，102年度則提供嘉義市政府與屏東縣政府使用，103年度亦成功導入桃園縣政府與苗栗縣政府使用；考量整體分區系統推動業務權責屬 貴部營建署範疇，因此自102年起分區系統僅針對已導入縣市系統進行維護。104年規劃強化共通性地理資訊應用系統輔導及推動作業，除進行本案系統維運及推廣作業外，持續針對縣市政府提出之系統功能需求進行擴充開發。</p>
+<h2 id="特點"><a href="#特點" class="headerlink" title="特點"></a>特點</h2><ul>
+<li>空間分析</li>
+<li>TGOS MAP API</li>
+<li>分佈七個縣市</li>
+</ul>
+]]></content>
+      <categories>
+        <category>作品集</category>
+      </categories>
+      <tags>
+        <tag>MIS</tag>
+        <tag>GIS</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>冠恆聯合會計師事務所入口網</title>
+    <url>/sideproject/20130521/1120241658/</url>
+    <content><![CDATA[<p><img src="/images/img-14.png"></p>
+<h2 id="簡介"><a href="#簡介" class="headerlink" title="簡介"></a>簡介</h2><p>2013年度與華奧博岩配合之網站建置案，包括切版、網站前後台開發、移機及管理教學等服務。</p>
+<ul>
+<li>日誠網站</li>
+<li>加好網站</li>
+<li>利欣網站</li>
+<li>睦茗網站</li>
+<li>冠恆網站</li>
+</ul>
+<p>以產品化思維建構Smart Portal模組，並利用合作案例網站開發為基礎，逐步完善產品架構，進而拓展企業形象網服務之業務範疇，降低開發成本。</p>
+<h2 id="特點"><a href="#特點" class="headerlink" title="特點"></a>特點</h2><ul>
+<li>ASP.NET MVC 4</li>
+<li>多國語言</li>
+<li>前後台畫面共用</li>
+</ul>
+]]></content>
+      <categories>
+        <category>作品集</category>
+      </categories>
+      <tags>
+        <tag>入口網</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>喜富客大足石刻</title>
+    <url>/sideproject/20160611/990744127/</url>
+    <content><![CDATA[<p><img src="/images/img-21.png"></p>
+<h2 id="特點"><a href="#特點" class="headerlink" title="特點"></a>特點</h2><ul>
+<li>串接 HiTRUSTpay 金流</li>
+<li>AngularJS</li>
+</ul>
+]]></content>
+      <categories>
+        <category>作品集</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>國合會國際人力培訓線上報名暨管理系統</title>
+    <url>/sideproject/20170921/983983372/</url>
+    <content><![CDATA[<p><img src="/images/img-16.png"></p>
+<h2 id="簡介"><a href="#簡介" class="headerlink" title="簡介"></a>簡介</h2><p>財團法人國際合作發展基金會自1998年開始，以「台灣特有之經濟發展經驗」協助培訓開發中國家政府之中、高階官員及非政府組織人員，研習領域可分為經濟貿易、農業技術、水產漁業、社區發展、科技管理、中小企業、觀光產業等主題。</p>
+<p>為便利研習班相關資料管理，於2001年完成「國際人力資源培訓管理系統開發建置案」(採購案號：ICDF-2001-013)，原始設計架構著重研習班相關資料儲存管理，系統使用至今，期間為因應本會研習班業務需求，曾進行系統功能擴充(如：關鍵字查詢、統計分析功能等)，財團法人國際合作發展基金會為將系統整合現今知識管理平台，擬依目前業務需要規劃建置新系統，進行新舊系統資料轉換，另鑒於上(99)年度嘗試獎學金計畫報名系統成效良好，且為因應日益增加之報名人數，建置線上報名功能，由駐外館/處/駐團統一進行初審及提報作業，以節省紙張及相關行政作業。</p>
+<h2 id="特點"><a href="#特點" class="headerlink" title="特點"></a>特點</h2><ul>
+<li>Ashx</li>
+<li>Ionic.Zip</li>
+<li>OpenXML SDK</li>
+</ul>
+]]></content>
+      <categories>
+        <category>作品集</category>
+      </categories>
+      <tags>
+        <tag>MIS</tag>
+        <tag>報名系統</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>國合會國際高等人力培訓外籍生獎學金計畫線上報名系統</title>
+    <url>/sideproject/20171121/2708348727/</url>
+    <content><![CDATA[<p><img src="/images/img-17.png"></p>
+<h2 id="簡介"><a href="#簡介" class="headerlink" title="簡介"></a>簡介</h2><p>本基金會國際高等人力培訓外籍生獎學金計畫，係補助友邦及友好開發中國家政府官員或專業人士來台留學之全額獎學金計畫。截至102年12月止，本基金會外籍生獎學金計畫已與國內20所大學合作，共設立30項博、碩、學士學程，每年超過500名申請者報名，約200名申請者受獎錄取。</p>
+<p>為因應本計畫自明(103)學年度起新增「混和型華語學程」類別，系統須調整報名介面與相關表件；另為整合業務需要將規劃EIP獎學金計畫系統資料匯入本報名系統及新增功能，以提高本計畫之運作效能。另新增駐校經理學年工作檢討報告上載。</p>
+<h2 id="特點"><a href="#特點" class="headerlink" title="特點"></a>特點</h2><ul>
+<li>NPOI</li>
+<li>DataSet .xsd</li>
+<li>NLog</li>
+</ul>
+]]></content>
+      <categories>
+        <category>作品集</category>
+      </categories>
+      <tags>
+        <tag>報名系統</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>國合會志工業務管理系統</title>
+    <url>/sideproject/20170618/610341380/</url>
+    <content><![CDATA[<p><img src="/images/img-15.png"></p>
+<h2 id="簡介"><a href="#簡介" class="headerlink" title="簡介"></a>簡介</h2><p>在現行財團法人國際合作發展基金會（以下簡稱　貴會）力行興革，並訂定在2022年成為永續發展的最佳夥伴之願景下，如何有效運用人力資源實現以人力資本為主之管理模式，儼然成為　貴會首當其衝必須面對的課題；另貴會於99年7月成立人事室，業已賦予人事室（現行人力資源室）成為企業經營者策略夥伴角色之使命。鑒於前述考量，　貴會原購置之人力資源系統僅供進行初階之人力資源管理，致欲進行進階人資相關資料之整合與分析時，所產出之資料無法即時運用且錯誤甚多，且現行人力資源管理功能（系統）係由不同的三家廠商所提供，相互功能間無法有效整合，廠商管理亦增困難，因此擬依目前業務需要規劃建置新系統，以因應日益增多之人資業務，茲就系統函蓋範圍及說明如後。</p>
+]]></content>
+      <categories>
+        <category>作品集</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>國合會技術合作計畫管理系統</title>
+    <url>/sideproject/20171221/3383621528/</url>
+    <content><![CDATA[<p><img src="/images/img-18.png"></p>
+<h2 id="簡介"><a href="#簡介" class="headerlink" title="簡介"></a>簡介</h2><p>為有效管理財團法人國際合作發展基金會(以下簡稱 貴會)技術合作處各計畫執行進度，並與 貴會「工作計畫管理系統」進行資料整合， 貴會業於2013年完成建置「技術合作計畫管理系統」，該採購案案名為「駐團業務管理系統擴增功能建置服務」（案號：ICDF-102-014）。</p>
+<p>系統現區分為4大區塊：計畫整合查詢、計畫工作規劃、計畫預算編列及執行進度填報。新計畫首於「工作計畫管理系統」進行登錄，當該計畫通過董事會核定後會產生一計畫編號，則可進入本系統，輸入該計畫編號將原建置於「工作計畫管理系統」之計畫基本資訊傳至本系統。其後，負責該計畫之駐地及會內人員可自「計畫工作規劃」區塊編擬計畫工作時程表、「計畫預算編列」區塊編列年度預算及「執行進度填報」區塊填寫月報表進度。計畫於評估階段時可將於本系統編寫的工作時程表上傳至「工作計畫管理系統」WBS中，並可透過系統編擬計畫年度預算。計畫進入執行階段後，可於本系統填寫各工作項目之每月工作進度，該進度由駐地人員填寫完畢後，傳送至會內端進行審核，審核通過後每月計畫執行進度會傳送至「工作計畫管理系統」。</p>
+<h2 id="特點"><a href="#特點" class="headerlink" title="特點"></a>特點</h2><ul>
+<li>Json.NET</li>
+<li>WebService</li>
+<li>EPPlus套件</li>
+</ul>
+]]></content>
+      <categories>
+        <category>作品集</category>
+      </categories>
+      <tags>
+        <tag>MIS</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>如何做好簡報</title>
+    <url>/note/20210311/45664323/</url>
+    <content><![CDATA[<div class="note success">
+            <p>一開始先不用打開ppt</p>
+          </div>
+
+<h2 id="內容架構"><a href="#內容架構" class="headerlink" title="內容架構"></a>內容架構</h2><ul>
+<li>核心內容</li>
+<li>如何讓對方看懂</li>
+<li>想要聽眾得到什麼？</li>
+</ul>
+<h3 id="資料整理"><a href="#資料整理" class="headerlink" title="資料整理"></a>資料整理</h3><ul>
+<li>便利貼手法<ul>
+<li>大方向的統整目前有用資訊</li>
+</ul>
+</li>
+</ul>
+<h3 id="建立架構"><a href="#建立架構" class="headerlink" title="建立架構"></a>建立架構</h3><ul>
+<li>金字塔架構法<ul>
+<li>依照聽眾情況不同建立對應架構<ul>
+<li>求職面試</li>
+<li>BD提案</li>
+<li>競爭分析報告</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+<h3 id="流程規劃"><a href="#流程規劃" class="headerlink" title="流程規劃"></a>流程規劃</h3><div class="note success">
+            <p>到這邊才打開PPT</p>
+          </div>
+
+<ol>
+<li>打開ppt</li>
+<li>獎現有資料融合至架構</li>
+<li>收集流程中缺少的資料</li>
+<li>檢視整體流程是否流暢</li>
+</ol>
+<h3 id="制作"><a href="#制作" class="headerlink" title="制作"></a>制作</h3><ul>
+<li>一頁講一個重點或論點</li>
+<li>不要有錯字(ex:口試ppt)</li>
+<li>用字要精確(不要模糊或混淆聽眾的字詞)</li>
+</ul>
+<h2 id="美編設計"><a href="#美編設計" class="headerlink" title="美編設計"></a>美編設計</h2><ul>
+<li>保持一致性<ul>
+<li>風格</li>
+<li>位置</li>
+<li>配色</li>
+<li>字型<ul>
+<li>黑源黑體</li>
+<li>微軟正黑體</li>
+</ul>
+</li>
+<li>主標<ul>
+<li>大標：粗+靠攏</li>
+<li>小標</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+<h2 id="報告者台風"><a href="#報告者台風" class="headerlink" title="報告者台風"></a>報告者台風</h2><ul>
+<li> 內容請理解滾瓜爛熟</li>
+<li> 不要盯著電腦報告</li>
+<li> 事先想可能被問的問題與回答</li>
+</ul>
+]]></content>
+      <categories>
+        <category>note</category>
+      </categories>
+      <tags>
+        <tag>presentation</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>常用Git 指令</title>
+    <url>/techdoc/20210125/2237860706/</url>
+    <content><![CDATA[<h2 id="Git-基礎架構"><a href="#Git-基礎架構" class="headerlink" title="Git 基礎架構"></a>Git 基礎架構</h2><img src="https://i.imgur.com/sYRriVZ.png" alt="" width="600"/>
+
+
+<h2 id="Git-基礎指令"><a href="#Git-基礎指令" class="headerlink" title="Git 基礎指令"></a>Git 基礎指令</h2><ul>
+<li>查看版本： <code>git --version</code></li>
+<li>設定個人資料<ul>
+<li>姓名：<code>git config --global user.name &quot;nick&quot;</code></li>
+<li>mail：<code>git config --global user.email &quot;mail&quot;</code></li>
+<li>查看git設定檔：<code>git config --list</code></li>
+</ul>
+</li>
+<li>初始化：<code>git init</code></li>
+<li>查詢當前狀態：<code>git status</code></li>
+<li>將檔案加到索引：<code>git add .</code></li>
+<li>將索引檔加入Commit：<code>git commit -m &quot;異動內容&quot;</code></li>
+<li>查詢Commit紀錄：<code>git log</code></li>
+<li>下載遠端Repository：<code>git clone 遠端網址</code></li>
+<li>拉取遠端Repository：<code>git pull</code></li>
+<li>更新遠端Repository：<code>git push origin master</code></li>
+</ul>
+<h2 id="Git-遠端-Repository"><a href="#Git-遠端-Repository" class="headerlink" title="Git 遠端 Repository"></a>Git 遠端 Repository</h2><h3 id="Git-和-GitHub"><a href="#Git-和-GitHub" class="headerlink" title="Git 和 GitHub"></a>Git 和 GitHub</h3><ul>
+<li>Git 是一個分散式版本控制軟體，可藉由它產生一個*儲存庫( git Repository)*。</li>
+<li>Github：支援 git 程式碼存取和<em>遠端託管儲存庫</em>的平台服務</li>
+<li>關係像是本地端有一個 index.html，但可以放到 dropbox、Google Drive 進行雲端託管</li>
+</ul>
+<h3 id="熱門遠端儲存庫"><a href="#熱門遠端儲存庫" class="headerlink" title="熱門遠端儲存庫"></a>熱門遠端儲存庫</h3><ul>
+<li><a href="https://github.com/">GitHub</a>：擁有 GitHub Pages 功能，可擁有私人數據庫，免費方案是 3 人以下</li>
+<li><a href="https://bitbucket.org/product/pricing">Bitbucket</a>：可擁有私人數據庫，免費方案是五人以下團隊</li>
+<li><a href="https://about.gitlab.com/">GitLab</a>：自架 Git 伺服器，有提供 web 視覺化管理介面，常用於企業內部開發</li>
+</ul>
+<blockquote>
+<p>賴人包：公司專案的小型團隊可用 Bitbucket，想要有一個公開對外網站的話，可用 GitHub</p>
+</blockquote>
+<h3 id="遠端儲存庫-Repository-操作"><a href="#遠端儲存庫-Repository-操作" class="headerlink" title="遠端儲存庫(Repository)操作"></a>遠端儲存庫(Repository)操作</h3><ul>
+<li>註冊遠端儲存庫：<code>git remote add origin 遠端儲存庫網址</code></li>
+<li>更新資料到遠端 master 分支：<code>git push -u origin master</code></li>
+<li><code>-u</code> 是指他預設會推到哪個遠端數據庫服務(平常可省略)</li>
+<li>origin 可以改成它的遠端數據庫名稱，例如 <code>git push -u github master</code></li>
+</ul>
+<h3 id="Git-版本觀念"><a href="#Git-版本觀念" class="headerlink" title="Git 版本觀念"></a>Git 版本觀念</h3><ul>
+<li>branch：分支，預設分支叫<code>master</code></li>
+<li>HEAD：指標，代表目前版本的停留位置</li>
+<li>origin：預設遠端儲存庫名稱</li>
+<li>查看版本內容：<code>git checkout 編號</code></li>
+<li>返回最新版本：<code>git checkout master(分支名稱)</code></li>
+</ul>
+<h3 id="Git-還原觀念"><a href="#Git-還原觀念" class="headerlink" title="Git 還原觀念"></a>Git 還原觀念</h3><p><img src="https://i.imgur.com/jH20ytf.png"></p>
+<ul>
+<li><strong>新增檔案，檔案還沒加入追蹤，清空工作目錄</strong><ul>
+<li>顯示這次操作會刪除的檔案：<code>git clean -n</code></li>
+<li>強制刪除檔案：<code>git clean -f</code></li>
+</ul>
+</li>
+<li><strong>檔案已加入追蹤，清空工作目錄</strong><ul>
+<li>還原工作目錄上已更改的檔案：<code>git checkout -- &lt;file&gt;</code></li>
+</ul>
+</li>
+<li><strong>檔案已加入到索引，退到工作目錄</strong><ul>
+<li><code>git reset HEAD</code></li>
+</ul>
+</li>
+</ul>
+<h4 id="版本還原"><a href="#版本還原" class="headerlink" title="版本還原"></a>版本還原</h4><ul>
+<li>還原上個版本：<code>git reset HEAD^</code></li>
+<li>還原前兩個版本：<code>git reset HEAD^^</code></li>
+<li>還原前兩個版本，所有更新檔案都放棄：<code>git reset HEAD^^ --hard</code></li>
+<li>觀看詳細歷史紀錄：<code>git reflog</code></li>
+<li>還原到特定 commit：<code>git reset commit編號 --hard</code></li>
+<li><a href="https://gitbook.tw/chapters/using-git/reset-commit.html">git reset 參數介紹</a></li>
+</ul>
+<h4 id="checkout-與-reset-差異"><a href="#checkout-與-reset-差異" class="headerlink" title="checkout 與 reset 差異"></a><strong>checkout</strong> 與 <strong>reset</strong> 差異</h4><ul>
+<li>checkout：移動<code>HEAD</code></li>
+<li>reset：移動<code>branch</code></li>
+</ul>
+<h2 id="Git-分支-branch"><a href="#Git-分支-branch" class="headerlink" title="Git 分支 (branch)"></a>Git 分支 (branch)</h2><h3 id="為什麼要分支"><a href="#為什麼要分支" class="headerlink" title="為什麼要分支"></a>為什麼要分支</h3><ul>
+<li>多人協作時，不可能都在 master</li>
+<li>可以讓 master 都是正式版資料，可以開分支來做測試或開發，藉此不影響正式主機分支</li>
+</ul>
+<h3 id="分支簡介"><a href="#分支簡介" class="headerlink" title="分支簡介"></a>分支簡介</h3><ul>
+<li>分支就像便利貼，貼在某個commit上</li>
+<li>分支合併：兩個commit進行合併</li>
+</ul>
+<h4 id="開分支"><a href="#開分支" class="headerlink" title="開分支"></a>開分支</h4><ul>
+<li>新增分支：git branch 分支名稱 (<strong>遠端分支名稱</strong>)</li>
+<li>查看分支：<code>git branch</code></li>
+<li>切換分支：<code>git checkout 分支名稱</code></li>
+<li>刪除分支：<code>git branch -d 分支名稱 、-D 是強制刪除</code></li>
+</ul>
+<h5 id="常見分支"><a href="#常見分支" class="headerlink" title="常見分支"></a>常見分支</h5><ul>
+<li>master：預設分支</li>
+<li>develop(dev)：開發分支</li>
+<li>fetaure：開發新功能分支</li>
+</ul>
+<h4 id="合併分支"><a href="#合併分支" class="headerlink" title="合併分支"></a>合併分支</h4><ul>
+<li>合併分支：<code>git merge 分支名稱</code></li>
+<li>取消快轉：<code>git merge 分支名稱 --no-ff</code></li>
+<li>觀看線圖：<code>git log -—oneline --graph</code></li>
+<li>還原合併前狀態：<code>git reset —hard ORIG_HEAD</code></li>
+</ul>
+<h5 id="快轉機制？"><a href="#快轉機制？" class="headerlink" title="快轉機制？"></a>快轉機制？</h5><ul>
+<li>使用快轉(<code>預設</code>)：本地端與遠端兩條相同branch合併時，可使用快轉</li>
+<li>取消快轉(<code>--no-ff</code>)：兩個不同branch合併時，建議<code>取消快轉</code>，在線圖上會跑出<strong>支線</strong></li>
+</ul>
+<p><img src="https://i.imgur.com/eOSVs8S.png"></p>
+<h5 id="解決衝突"><a href="#解決衝突" class="headerlink" title="解決衝突"></a>解決衝突</h5><blockquote>
+<p>HEAD 是當前 HEAD 分支位置，develop 是你想合併的分支</p>
+</blockquote>
+<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">&lt;&lt;&lt;&lt;&lt;&lt;&lt; HEAD</span><br><span class="line">      &lt;h1&gt;我是標題&lt;&#x2F;h1&gt;</span><br><span class="line">&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;</span><br><span class="line">      &lt;h2&gt;我是大標題&lt;&#x2F;h2&gt;</span><br><span class="line">&gt;&gt;&gt;&gt;&gt;&gt;&gt; develop</span><br></pre></td></tr></table></figure>
+<blockquote>
+<p>取消 merge 衝突狀態： <code>git merge --abort</code></p>
+</blockquote>
+<h4 id="rebase"><a href="#rebase" class="headerlink" title="rebase"></a>rebase</h4><blockquote>
+<p>另一種合併方式</p>
+</blockquote>
+<blockquote>
+<p>語法： git rebase 分支名稱</p>
+</blockquote>
+<p><strong>rebase前</strong><br><img src="https://i.imgur.com/DCnfiSZ.png"></p>
+<p><strong>rebase後</strong><br><img src="https://i.imgur.com/EYpsIom.png"></p>
+<blockquote>
+<p>看起來是<code>剪下、貼上</code>，實際上是<strong>復製、貼上</strong>(SHA1值不一樣)</p>
+</blockquote>
+<blockquote>
+<p><a href="https://blog.yorkxin.org/2011/07/29/git-rebase.html">進階用法</a><br><a href="https://gitbook.tw/chapters/rewrite-history/change-commit-message.html">修改歷史訊息</a></p>
+</blockquote>
+<h5 id="還原方式"><a href="#還原方式" class="headerlink" title="還原方式"></a>還原方式</h5><ul>
+<li><code>git reset ORIG_HEAD --hard</code></li>
+<li><code>git reflog</code></li>
+</ul>
+<h4 id="cherry-pick"><a href="#cherry-pick" class="headerlink" title="cherry-pick"></a>cherry-pick</h4><blockquote>
+<p>撿別的分支的 Commit 過來合併</p>
+</blockquote>
+<p>語法：<br><code>git cherry-pick 編號1 編號2 編號3</code></p>
+<p>參數：<br><code>--no-commit</code>：撿過來但先不合併</p>
+<h2 id="Git-其它狀況"><a href="#Git-其它狀況" class="headerlink" title="Git 其它狀況"></a>Git 其它狀況</h2><h3 id="做到一半，臨時要切換到別的任務"><a href="#做到一半，臨時要切換到別的任務" class="headerlink" title="做到一半，臨時要切換到別的任務"></a>做到一半，臨時要切換到別的任務</h3><blockquote>
+<p><a href="https://gitbook.tw/chapters/faq/stash.html">https://gitbook.tw/chapters/faq/stash.html</a></p>
+</blockquote>
+<ul>
+<li>先Commit，稍候再使用<code>git reset HEAD^</code>回來做</li>
+<li>使用<code>git stash</code>暫存工作<ul>
+<li><code>git stash list</code>：查看當前分支stash列表</li>
+<li><code>git stash pop stash@&#123;編號&#125;</code>：回來進行stash@{編號}的工作，並==移除==stash</li>
+<li><code>git stash apply stash@&#123;編號&#125;</code>：拿取工作==不移除==stash</li>
+<li><code>git stash pop &quot;不指定stash@&#123;編號&#125;&quot;</code>：從編號最小開始拿</li>
+<li><code>git stash drop stash@&#123;編號&#125;</code>：移除stash</li>
+</ul>
+</li>
+</ul>
+<h3 id="不小心把ignore的檔案加進版控"><a href="#不小心把ignore的檔案加進版控" class="headerlink" title="不小心把ignore的檔案加進版控"></a>不小心把ignore的檔案加進版控</h3><blockquote>
+<p>加進版控會導致<code>.ignore</code> 對該資料夾或檔案的ignore失效</p>
+</blockquote>
+<p><strong>1 .移除跟蹤</strong></p>
+<p>移除指定文件夾即文件夾下所有文件：<br><code>git rm --cached --force -r .idea  </code></p>
+<p>移除指定文件：</p>
+<p><code>git rm --cached --force ydq-api/ydq-api.iml </code></p>
+<p><strong>2. 進行commit，再下次commit就可ignore了</strong></p>
+<h2 id="補充"><a href="#補充" class="headerlink" title="補充"></a>補充</h2><ul>
+<li><a href="https://learngitbranching.js.org/">Git 練習網站</a></li>
+</ul>
+<blockquote>
+<p>Generating a new SSH key：</p>
+</blockquote>
+<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">ssh-keygen -t rsa -b 4096 -C &quot;trojanhorse0077@gmail.com&quot;</span><br></pre></td></tr></table></figure>
+<h3 id="Cli-終端機-基本指令"><a href="#Cli-終端機-基本指令" class="headerlink" title="Cli 終端機 基本指令"></a>Cli 終端機 基本指令</h3><table>
+<thead>
+<tr>
+<th>Windows</th>
+<th>Mac/Linux</th>
+<th>說明</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>cd 路徑</td>
+<td>cd 路徑</td>
+<td>前往資料夾路徑</td>
+</tr>
+<tr>
+<td>cd</td>
+<td>pwd</td>
+<td>取得目前所在的位置</td>
+</tr>
+<tr>
+<td>dir</td>
+<td>ls</td>
+<td>顯示資料夾裡的檔案</td>
+</tr>
+<tr>
+<td>mkdir</td>
+<td>mkdir</td>
+<td>新增資料夾</td>
+</tr>
+<tr>
+<td>無</td>
+<td>touch</td>
+<td>開新檔案</td>
+</tr>
+<tr>
+<td>copy</td>
+<td>cp</td>
+<td>複製檔案</td>
+</tr>
+<tr>
+<td>move</td>
+<td>mv</td>
+<td>移動檔案</td>
+</tr>
+<tr>
+<td>del</td>
+<td>rm</td>
+<td>刪除檔案</td>
+</tr>
+<tr>
+<td>cls</td>
+<td>clear</td>
+<td>清除畫面上內容</td>
+</tr>
+</tbody></table>
+]]></content>
+      <categories>
+        <category>技術文件</category>
+      </categories>
+      <tags>
+        <tag>Git</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>彰化縣政府勞工處工業發展空間資訊整合平台</title>
+    <url>/sideproject/20160809/1763360179/</url>
+    <content><![CDATA[<p><img src="/images/img-12.png"></p>
+<h2 id="簡介"><a href="#簡介" class="headerlink" title="簡介"></a>簡介</h2><p>彰化縣為全國第五大工業縣市，主要特色產業有紡織、織襪、蜜餞、水五金、酒類、稻米、糕餅、自行車零組件及投籃機等產品，近年來彰化縣政府更積極進行產業加值與轉型，隨著中科四期二林園區的發展，更加速產業升級與轉型的契機，鑒於產業發展政策及永續經營之需求，爰此，彰化縣政府於民國101年度建置「彰化縣工業發展空間資訊整合平台」，建構彰化縣境內工業資訊單一入口平台，俾利民眾、廠商、公會及縣府人員可以透過平台進行工業資訊交流、產業產品展示、租售資訊發布及觀光工廠呈現，藉以促進商機拓展行銷及活絡產業經濟發展。因此，上述平台儼然成為彰化縣產業資訊單一入口平台，為使彰化縣境內產業所發佈的就業徵才資訊可以有更多曝光機會，103年度完成建構平台第五大主題資訊平台「就業服務通」，除了提供一般民眾可以查詢瀏覽彰化縣產業就業徵才資訊外，並且查詢彰化縣政府勞工處所發布之最新消息，藉以強化彰化縣工業發展空間資訊整合平台建置之效益。</p>
+]]></content>
+      <categories>
+        <category>作品集</category>
+      </categories>
+      <tags>
+        <tag>MIS</tag>
+        <tag>GIS</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>彰化縣政府幸福企業甄選</title>
+    <url>/sideproject/20171218/3450408317/</url>
+    <content><![CDATA[<p><img src="/images/img-20.png"></p>
+<h2 id="簡介"><a href="#簡介" class="headerlink" title="簡介"></a>簡介</h2><p>彰化縣政府為鼓勵企業重視員工福利與薪資，營造安全、幸福、友善與優質的勞動環境，讓企業懂得如何照顧員工、打造幸福的工作環境。 </p>
+<p>舉辦首屆「彰化職場好幸福」企業徵選活動，讓企業間透過活動的舉辦形成良性競爭，分享並交換幸福企業的經驗，讓每位員工都能幸福工作，與企業共同成長，同時提升企業形象，讓員工以企業為榮，長期穩定就業，以減少勞動人力缺口的危機，打造幸福彰化城市。</p>
+<h2 id="特點"><a href="#特點" class="headerlink" title="特點"></a>特點</h2><ul>
+<li>第一個自己寫的MVC專案</li>
+<li>Autofac Asp.net Mvc</li>
+<li>四層式的架構</li>
+</ul>
+]]></content>
+      <categories>
+        <category>作品集</category>
+      </categories>
+      <tags>
+        <tag>入口網</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>技術入口網</title>
+    <url>/sideproject/20180219/857597094/</url>
+    <content><![CDATA[<p><img src="/images/img-25.png"></p>
+<h2 id="特點"><a href="#特點" class="headerlink" title="特點"></a>特點</h2><ul>
+<li>ELMAH 錯誤紀錄模組</li>
+<li>Editor.md 編輯器</li>
+<li>NuGet Server</li>
+</ul>
+]]></content>
+      <categories>
+        <category>作品集</category>
+      </categories>
+      <tags>
+        <tag>markdown</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>新北市工廠空間資訊管理系統</title>
+    <url>/sideproject/20170315/3114996799/</url>
+    <content><![CDATA[<p><img src="/images/img-9.png"></p>
+<h2 id="簡介"><a href="#簡介" class="headerlink" title="簡介"></a>簡介</h2><p>新北市政府勞動檢查處為瞭解轄內各行政區域之產業特性，並掌握所設置之危險性機械設備、使用之危險物與有害物品及使勞工從事特別危害健康作業等高風險作業之分布情形，以利本處規劃適當勞動檢查計畫實施檢查，進而控管災害風險。</p>
+<p>為了讓本處得以盡快登錄工廠相關資訊，特以本府經濟發展局所建構之「工業發展GIS空間資訊系統」為基本架構進行系統擴充，並建立相關圖資整合於市府空間資訊共同平台，以利掌握轄內產業狀況並分析危害特性，有效督促事業單位落實相關勞工安全衛生作為。</p>
+<h2 id="特點"><a href="#特點" class="headerlink" title="特點"></a>特點</h2><ul>
+<li>SqlCommand</li>
+<li>T-SQL</li>
+<li>GIS空間資訊系統</li>
+</ul>
+]]></content>
+      <categories>
+        <category>作品集</category>
+      </categories>
+      <tags>
+        <tag>MIS</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>新北市招商資訊整合服務平臺</title>
+    <url>/sideproject/20170301/4256261148/</url>
+    <content><![CDATA[<p><img src="/images/img-10.png"></p>
+<h2 id="簡介"><a href="#簡介" class="headerlink" title="簡介"></a>簡介</h2><p>參案件辦理期程長達數十年，一般履約管理顧問服務契約係為解決興建營運初期法律及工程等問題，僅約為3-6年之專業服務，缺乏長期針對興建營運契約辦理文件及工作事項之管理，亦缺乏針對簽約企業、廠商等投資者提供案件資訊的雙向管理服務，為強化既有產經資料的應用與資源的共享，進一步提供政府與企業長期共同合作的基礎，期望建構以促進民間參與公共建設案件管理為架構，以既有資料庫為基礎的資訊管理應用服務，並建立政府與廠商間雙向服務的平臺，強化招商引資整體服務工作，以提供結合招商案件管理以及資源共享空間資訊服務平臺。</p>
+<p>本系統主要針對局內業務人員於進行招商案件管理時，對於案件從研擬、招商、議約簽約、履約、移轉返還進行全盤掌握，建立提供一套整合性招商資訊服務平台，提升促參案件管理業務之效率。</p>
+<h2 id="特點"><a href="#特點" class="headerlink" title="特點"></a>特點</h2><ul>
+<li>UserLog</li>
+<li>UCO/PO</li>
+<li>招商案件管理系統</li>
+</ul>
+]]></content>
+      <categories>
+        <category>作品集</category>
+      </categories>
+      <tags>
+        <tag>MIS</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>棋牌對戰 Game Server開發</title>
+    <url>/sideproject/20210129/625696656/</url>
+    <content><![CDATA[<div class="group-picture"><div class="group-picture-container"><div class="group-picture-row"><div class="group-picture-column" style="width: 50%;"><img src="https://i.imgur.com/qvejjHk.jpg" alt="" width="350"/></div><div class="group-picture-column" style="width: 50%;"><img src="https://i.imgur.com/098KPOY.png" alt="" width="350"/></div></div></div></div>
+
+<h2 id="特點"><a href="#特點" class="headerlink" title="特點"></a>特點</h2><ul>
+<li>CQ9 第一款棋牌對戰遊戲</li>
+<li>負責項目：<ul>
+<li>Server架構</li>
+<li>後端開發</li>
+<li>協議</li>
+</ul>
+</li>
+<li>採用 .NET Core 3 開發</li>
+<li>採用主流的遊戲架構：<strong>ECS架構</strong>(Entity-Component-System)</li>
+<li>協議採用 Google Protobuf</li>
+<li>後期進行 <strong>NuGet 模組化</strong>，開發遊戲超 Easy !!</li>
+</ul>
+<h2 id="GameServer-架構"><a href="#GameServer-架構" class="headerlink" title="GameServer 架構"></a>GameServer 架構</h2><h2 id="架構圖"><a href="#架構圖" class="headerlink" title="架構圖"></a>架構圖</h2><p><img src="https://i.imgur.com/iRrJmLi.png"></p>
+<h2 id="基礎元件介紹"><a href="#基礎元件介紹" class="headerlink" title="基礎元件介紹"></a>基礎元件介紹</h2><h3 id="Game"><a href="#Game" class="headerlink" title="Game"></a>Game</h3><ul>
+<li>頂層類別，主要包含<code>Scene</code>、<code>EventSystem</code></li>
+</ul>
+<h3 id="Componet"><a href="#Componet" class="headerlink" title="Componet"></a>Componet</h3><ul>
+<li>框架裡萬物皆是<code>Componet</code></li>
+<li>建構子會調用<code>IdGenerator類</code>產生唯一的 Id</li>
+<li>繼承<code>IDisposable</code>，在調用Dispose後會被ObjectPool 回收</li>
+</ul>
+<h3 id="ComponentWithId"><a href="#ComponentWithId" class="headerlink" title="ComponentWithId"></a>ComponentWithId</h3><ul>
+<li>繼承 Componet  </li>
+<li>使用指定 Id創建 Componet</li>
+</ul>
+<h3 id="Entity"><a href="#Entity" class="headerlink" title="Entity"></a>Entity</h3><ul>
+<li>可以<code>掛載</code> Componet</li>
+<li>繼承 <code>ComponentWithId</code></li>
+</ul>
+<blockquote>
+<p>以上皆使用<code>ComponentFactory</code> 靜態類別創建</p>
+</blockquote>
+<h3 id="Scene"><a href="#Scene" class="headerlink" title="Scene"></a>Scene</h3><ul>
+<li>重要的單例實體</li>
+<li>繼承 Entity 類，包含的 component代表了服務端進程能提供的基礎功能集合</li>
+</ul>
+<h3 id="EventSystem"><a href="#EventSystem" class="headerlink" title="EventSystem"></a>EventSystem</h3><ul>
+<li>單例實體</li>
+<li>在component 創建時，註冊事件到相對應的列表</li>
+<li>主要事件介面<ul>
+<li>IAwake</li>
+<li>IStart</li>
+<li>IDestroy</li>
+<li>ILoad</li>
+<li>IUpdate</li>
+<li>ILateUpdate</li>
+<li>IChange</li>
+<li>IDeserialize</li>
+</ul>
+</li>
+</ul>
+<h2 id="運作流程"><a href="#運作流程" class="headerlink" title="運作流程"></a>運作流程</h2><div class="note success">
+            <p>框架並自定義一個<code>OneThreadSynchronizationContext</code>類，在有異步回調到來的時候保存delegate和參數到一個多線安全的Queue，然後一個While True 迴圈不停調用<code>OneThreadSynchronizationContext.Update</code>，在主線程中取出本次主循環產生的所有異步回調，從而保證了所有的回調函數都被捕捉到單一主線程執行。</p>
+          </div>
+
+<p><strong><span class="label success"> 該框架進入點為`app.proj` 裡面只有一個帶 main的program類型，啟動之後主要分以下四個流程</span></strong></p>
+<h3 id="第一步"><a href="#第一步" class="headerlink" title="第一步"></a>第一步</h3><p>首先註冊 Model程序集中提供的各種基礎 Model類，隨後加載 Hotfix中可以熱更新的類型並且註冊到<code>EventSystem</code>。一方面是提供IAwake、ILoad、IUpdate 等等介面中的事件處理，一方面檢索各類 Attribute並且註冊到相應容器中以便後續查找。</p>
+<h3 id="第二步"><a href="#第二步" class="headerlink" title="第二步"></a>第二步</h3><p>載入<code>OpcodeTypeComponent</code>和<code>MessageDispatherComponent</code>提供Server 端進程相應網絡消息回調的功能，後需章節會繼續介紹。</p>
+<h3 id="第三步"><a href="#第三步" class="headerlink" title="第三步"></a>第三步</h3><p>隨後是根據本身的 appType添加自身需要的Component，後需章節會繼續介紹</p>
+<h3 id="第四步"><a href="#第四步" class="headerlink" title="第四步"></a>第四步</h3><p>進入Sever 主循環：每此循環休息1ms，處理發生的異步回調；並處理各種Compont的update事件。</p>
+]]></content>
+      <categories>
+        <category>作品集</category>
+      </categories>
+      <tags>
+        <tag>GameServer</tag>
+        <tag>棋牌對戰</tag>
+        <tag>.net Core</tag>
+        <tag>Google Protobuf</tag>
+        <tag>Nuget</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>水保局105年度水土保持公共工程技術品質提升計畫</title>
+    <url>/sideproject/20160526/3406392346/</url>
+    <content><![CDATA[<p><img src="/images/img-8.png"></p>
+<h2 id="簡介"><a href="#簡介" class="headerlink" title="簡介"></a>簡介</h2><p>行政院農業委員會水土保持局(以下簡稱水保局)現階段整體性治山防災計畫，係依現況災害情形進行坡地保育治理等相關工作，為有效提升防減災成效，考量氣候變遷對於水土保持各領域之衝擊，加強防減災工程教育訓練及宣導作業提升相關人員能力，實刻不容緩。</p>
+<p>爰此，擬設計推動氣候變遷下山坡地10年防減災專案計畫之教育宣導訓練計畫，利用相關教育訓練提升水保局同仁職能專業程度與公民參與直接性。</p>
+<h2 id="特點"><a href="#特點" class="headerlink" title="特點"></a>特點</h2><ul>
+<li>線上報名系統</li>
+<li>Email排程</li>
+<li>WebForm</li>
+</ul>
+]]></content>
+      <categories>
+        <category>作品集</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>水保局農村再生執行及管理系統</title>
+    <url>/sideproject/20170211/2820871682/</url>
+    <content><![CDATA[<p><img src="/images/img-11.png"></p>
+<h2 id="簡介"><a href="#簡介" class="headerlink" title="簡介"></a>簡介</h2><p>我國為促進農村活化再生，提升農村整體發展，恢復農村 居民在地居住尊嚴，以達建設富麗新農村之目標，將推動農村 再生列為重要之課題。為推動農村再生並執行農村再生條例與 農村再生計畫，特建置『農村再生執行及管理系統』，供農村 再生執行計畫之工程執行情形、施工進度、相關管理維護、品 質管理監督、三級品管品質文件推廣展示及會計相關作業等， 首創以一站式電子化方式統合管理農村再生工程、品質、會計 和文件等作業流程，使用對象包含水保局、六大分局、縣市政 府、鄉鎮公所及委外廠商等業務角色，以利農村再生工程順利 執行完成，達成農村再生計畫願景。</p>
+<h2 id="特點"><a href="#特點" class="headerlink" title="特點"></a>特點</h2><ul>
+<li>單一登錄(SSO)</li>
+<li>大量使用Stored Procedure</li>
+<li>ADO.NET：EDMX</li>
+<li>採用UCO/PO架構</li>
+</ul>
+]]></content>
+      <categories>
+        <category>作品集</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>水利署104年度委辦計畫成果發表會</title>
+    <url>/sideproject/20150625/4036074347/</url>
+    <content><![CDATA[<p><img src="/images/img-6.png"></p>
+<h2 id="簡介"><a href="#簡介" class="headerlink" title="簡介"></a>簡介</h2><p>水利署於104年度辦理之水利綜合業務、水權與地層下陷防治、水資源保育、水利政策與法規、水利產業與經濟、水源開發及利用、河川海岸與區域排水、資訊與水文觀測、水利工程與災害防治等，九大類委辦計畫成果豐碩，編纂委辦計畫成果摘要彙編並辦理成果發表會，對外發表水利署104年度執行各項委辦計畫之相關成果，並冀由與會專家之討論與建議，協助水利署掌握符合時勢之水資源政策發展趨勢及其未來施政之規劃方向。</p>
+]]></content>
+      <categories>
+        <category>作品集</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>水利署105年度委辦計畫成果發表會</title>
+    <url>/sideproject/20160627/3558066781/</url>
+    <content><![CDATA[<p><img src="/images/img-7.png"></p>
+<h2 id="簡介"><a href="#簡介" class="headerlink" title="簡介"></a>簡介</h2><p>水利署於105年度辦理之委辦計畫，分為水資源綜合業務、水權與地層下陷防治、水資源保育、水利政策與法規、水利產業與經濟、水源開發及利用、河川海岸與區域排水、資訊與水文觀測、水利工程與災害防治等九大類，各項委辦計畫成果豐碩，擬編纂委辦計畫成果摘要彙編，並辦理成果發表會，與各相關之產、官、學界進行成果分享，並對外宣傳及展現水利署105年度委辦計畫豐碩之成果。</p>
+]]></content>
+      <categories>
+        <category>作品集</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>水利署106年度施政計畫管理人員專業訓練</title>
+    <url>/sideproject/20170126/3398055004/</url>
+    <content><![CDATA[<p><img src="/images/img-1.png" alt="upload successful"></p>
+<h2 id="簡介"><a href="#簡介" class="headerlink" title="簡介"></a>簡介</h2><p>106年度水利署主辦執行水利工程計畫，牽涉較多機關單位，且目標複雜度、困難度及挑戰性極高，在推動過程中須加強協調問題及不可抗力之影響因素；為強化計畫主協辦等相關人員管理作為及提升多元化能力，爰邀集水利署暨所屬機關列管計畫主（協）辦、管理及相關人員共同研習施政計畫管理作業，藉以不斷加強專業廣度及深度並提升計畫執行效率及績效目標。</p>
+]]></content>
+      <categories>
+        <category>作品集</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>臺南市政府開放資料平台</title>
+    <url>/sideproject/20170919/967877228/</url>
+    <content><![CDATA[<p><img src="/images/img-28.png"></p>
+<h2 id="簡介"><a href="#簡介" class="headerlink" title="簡介"></a>簡介</h2><p>為方便各界更易於取得臺南市政府(以下簡稱　貴府)所提供之開放資料，臺南市政府資訊中心(以下簡稱　貴中心)期望透過建立一個共通的平台，將　貴府的開放資料(open data)以通用開放資料格式，集中列示在該平台，以提供較佳的品質與存取方式，此一平台的價值不只在於公告各項應公開的施政資訊，亦可視為一個內容服務平台，讓資源有限的軟體服務業者，將人力專注於軟體本身與服務流程上。</p>
+<h2 id="特點"><a href="#特點" class="headerlink" title="特點"></a>特點</h2><ul>
+<li>AngularJS</li>
+<li>ASP.NET MVC 5</li>
+<li>OpenData</li>
+</ul>
+]]></content>
+      <categories>
+        <category>作品集</category>
+      </categories>
+      <tags>
+        <tag>入口網</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>行政院農業委員會水土保持局農村風情網-銀髮版</title>
+    <url>/sideproject/20170509/962250387/</url>
+    <content><![CDATA[<p><img src="/images/img-22.png"></p>
+<h2 id="簡介"><a href="#簡介" class="headerlink" title="簡介"></a>簡介</h2><p>行政院農業委員會水土保持局於94年度開始蒐集建置農村資訊平台， 103年度農村風情網營運服務主要包括入口網、行動版、兒童版、銀髮版、農村好讚等多元網站，目前網頁內容主要包含「訊息快遞」、「幸福農村」、「農村鮮本團隊貨通」、「農村部落格」、「在地心感動」、「農村行腳」及「農村典藏」等項目，在既有web網站架構下，本年度推動重點以強化農村第一站（農村入口網）、資訊動態有效管理、強化網頁互動資訊管理、加強社群互動討論、農村產業行銷推廣、更新上傳等功能，以吸引更多民眾認識農村、體驗農村、喜愛農村。</p>
+<h2 id="特點"><a href="#特點" class="headerlink" title="特點"></a>特點</h2><ul>
+<li>即時語音 ITRI TTS</li>
+<li>實作 OData API</li>
+<li>handlebars.js</li>
+</ul>
+]]></content>
+      <categories>
+        <category>作品集</category>
+      </categories>
+      <tags>
+        <tag>入口網</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>水保局培根計畫人員培訓暨管考系統</title>
+    <url>/sideproject/20170225/451597171/</url>
+    <content><![CDATA[<p><img src="/images/img-19.png"></p>
+<h2 id="簡介"><a href="#簡介" class="headerlink" title="簡介"></a>簡介</h2><p>培根計畫網及培根管考系統為協助農村再生培根計畫及永續陪伴之資訊管理系統，為利培根計畫及永續陪伴作業之推動，有效管理農村社區、學員、課程及師資等資料，本計畫持續辦理系統維護及功能擴充，並強化培訓作業流程電子化服務，另外新增成果展現功能，包含歷年數據分析、團隊績效呈現等，以期作為決策參考之依據。</p>
+<h2 id="特點"><a href="#特點" class="headerlink" title="特點"></a>特點</h2><ul>
+<li>Vue 1.0</li>
+<li>運行長達10年的系統</li>
+<li>Morris.js</li>
+</ul>
+]]></content>
+      <categories>
+        <category>作品集</category>
+      </categories>
+      <tags>
+        <tag>MIS</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>行政院農業委員會水土保持局農村風情網</title>
+    <url>/sideproject/20180321/3083123936/</url>
+    <content><![CDATA[<p><img src="/images/img-23.png"></p>
+<h2 id="簡介"><a href="#簡介" class="headerlink" title="簡介"></a>簡介</h2><p>行政院農業委員會水土保持局於94年度開始蒐集建置農村資訊平台， 103年度農村風情網營運服務主要包括入口網、行動版、兒童版、銀髮版、農村好讚等多元網站，目前網頁內容主要包含「訊息快遞」、「幸福農村」、「農村鮮本團隊貨通」、「農村部落格」、「在地心感動」、「農村行腳」及「農村典藏」等項目，在既有web網站架構下，本年度推動重點以強化農村第一站（農村入口網）、資訊動態有效管理、強化網頁互動資訊管理、加強社群互動討論、農村產業行銷推廣、更新上傳等功能，以吸引更多民眾認識農村、體驗農村、喜愛農村。</p>
+<h2 id="特點"><a href="#特點" class="headerlink" title="特點"></a>特點</h2><ul>
+<li>文字編輯器：ckeditor</li>
+<li>多種版本</li>
+<li>五層式架構 </li>
+</ul>
+]]></content>
+      <categories>
+        <category>作品集</category>
+      </categories>
+      <tags>
+        <tag>入口網</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>高雄市工廠空間地理資訊系統</title>
+    <url>/sideproject/20180419/4173232934/</url>
+    <content><![CDATA[<p><img src="/images/img-27.png"></p>
+<h2 id="簡介"><a href="#簡介" class="headerlink" title="簡介"></a>簡介</h2><p>工廠管理輔導法於99年6月2日修正公布實施，經濟部為輔導未登記工廠合法登記以納入管理，增訂第33條劃設未登記工廠特定地區及第34條補辦臨時工廠登記條款，除授予地方政府輔導群聚未登記工廠合法之管道，對於97年3月14日前既有之低污染未登記工廠業者，倘符合環保、消防、水利、水土保持等公共安全前提下，亦可於101年6月2日前以繳交回饋金方式補辦臨時工廠登記，在106年6月2日前暫時免除區域計畫法、都市計畫法及建築法處罰規定；為有效掌握高雄市轄區工廠資訊，本局於100年開始建置未登記工廠地理資訊系統，至101年完成並開始使用，系統功能包含合法工廠、未登記工廠空間資訊功能、工業區等空間位置資訊及查詢功能。</p>
+<p>考量工廠資料屬於經常性異動資料，且因應高雄市GIS共通平台之推動，業務單位對於工廠資料及空間圖資的查詢需要更即時的更新需求。然而，現階段應用系統自完成建置後對於上述資料之更新作業無法達到定期自動更新機制。爰此，本計畫規劃針對工廠地理資訊系統進行整體提升作業，除了達成資料定期更新外，期建置業務管理及外業勘查等輔助功能，強化府內業務單位掌握更即時之工廠發展資訊。</p>
+<h2 id="特點"><a href="#特點" class="headerlink" title="特點"></a>特點</h2><ul>
+<li>Quartz.NET 排程套件</li>
+<li>Vue 2.0</li>
+<li>Entity Framework Code First Migrations</li>
+</ul>
+]]></content>
+      <categories>
+        <category>作品集</category>
+      </categories>
+      <tags>
+        <tag>MIS</tag>
+        <tag>GIS</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>[object Object]</title>
+    <url>/uncategorized/20220204/2185937872/</url>
+    <content><![CDATA[<h1 id="Qexo-Test"><a href="#Qexo-Test" class="headerlink" title="Qexo Test"></a>Qexo Test</h1><p>這個是測試Qexo 的新建頁面</p>
+]]></content>
+  </entry>
+  <entry>
+    <title>[object Object]</title>
+    <url>/uncategorized/20220204/2185937873/</url>
+    <content><![CDATA[<h1 id="Test2"><a href="#Test2" class="headerlink" title="Test2"></a>Test2</h1><p>This Test2</p>
+]]></content>
+  </entry>
+</search>
