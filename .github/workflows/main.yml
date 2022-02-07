@@ -35,6 +35,7 @@ jobs:
         run: |
           npm i -g hexo-cli
           npm i
+          npm install hexo-abbrlink
       - name: Deploy hexo
         run: |
           hexo generate && hexo deploy
