@@ -1,5 +1,5 @@
 ---
-title: {{ title }}
+title: Test2
 date: 2022-02-04 11:24:21
 tags:
 categories:
