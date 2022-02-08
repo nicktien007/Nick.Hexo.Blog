@@ -29,7 +29,6 @@ date: 2021-01-20 00:41:52
 
 # 個人檔案
 
-```
 {% note primary no-icon %}
 - 學歷：國立中興大學-資訊工程學系
 - 手機：0921792281
@@ -40,15 +39,12 @@ date: 2021-01-20 00:41:52
 - 期望職位：Java 工程師 / .Net工程師
 - 期望城市：台中
 {% endnote %}
-```
 
 # 經歷
 
-```
 {% note success %}
 ## 長青資訊有限公司, 主任工程師, Sep 2018 ~ 現在
 {% endnote %}
-```
 
 - 遊戲平臺API介接
 - GameServer 從無到有架構建置(.net Core、ECS架構)
@@ -67,11 +63,9 @@ date: 2021-01-20 00:41:52
 - 重視Unit Test及依賴反轉
 - 擅長DI/IoC 隔離依賴
 
-```
 {% note success %}
 ## 財旺國際股份有限公司, ASP.NET 技術經理, Dec 2017 ~ Jul 2018
 {% endnote %}
-```
 
 - 負責公司現有產品重構主要負責人
 - 負責系統架構訂定及調整
@@ -89,33 +83,32 @@ date: 2021-01-20 00:41:52
 - 負責 BotMessage 平台建構
 - 負責 AzurePortal 平台管理(包含VM、DB)
 
-```
 {% note success %}
 ## 巨鷗科技股份有限公司, .NET程式設計師, May 2014 ~ Jul 2017
 {% endnote %}
-```
+
 
 - WEB 系統開發及維護
 - 建置與網站前後台開發
 - 資料庫建置與規劃
 - .NET專案程式開發與維護
 
-```
+
 {% note success %}
 ## 華新襪品批發, 通路開發業務, May 2013 ~ Dec 2013
 {% endnote %}
-```
+
 
 - 襪子
 - 服裝
 - 海灘褲
 - 市場開發
 
-```
+
 {% note success %}
 ## NISSAN裕民汽車股份有限公司, 業務代表, Dec 2011 ~ Mar 2013
 {% endnote %}
-```
+
 
 - 汽車銷售
 - 保養
@@ -128,29 +121,25 @@ date: 2021-01-20 00:41:52
 
 ## 後端
 
-```
 {% note primary %}
 - ASP.NET MVC (C#)
 - Java Spring Boot
 - restful api design
 - Bot Message
 {% endnote %}
-```
 
 ## 前端
 
-```
 {% note info %}
 - Vue.js 
 - Angular.js 
 - JavaScript
 - Bootstrap
 {% endnote %}
-```
+
 
 ## 資料庫
 
-```
 {% note primary %}
 - MS SQL
 - My SQL
@@ -159,11 +148,11 @@ date: 2021-01-20 00:41:52
 - Redis
 - database schema design
 {% endnote %}
-```
+
 
 ## 架構
 
-```
+
 {% note info %}
 - Modularity
 - Abstraction
@@ -172,22 +161,20 @@ date: 2021-01-20 00:41:52
 - Game Server design
 - Entity-Component-System Architecture
 {% endnote %}
-```
+
 
 ## 重構
 
-```
 {% note primary %}
 - code refactoring
 - Unit Test
 - Dependency Injection
 - Inversion of Control
 {% endnote %}
-```
+
 
 ## 其它
 
-```
 {% note info %}
 - 具備 Server 架設能力
 
@@ -198,7 +185,7 @@ date: 2021-01-20 00:41:52
 - 知識分享平臺建構
 
 {% endnote %}
-```
+
 
 # 讀過的著作
 

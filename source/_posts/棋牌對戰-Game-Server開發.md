@@ -11,13 +11,11 @@ categories:
 abbrlink: 625696656
 date: 2021-01-29 20:37:00
 ---
-  
-```
+
 {% gp 2-2 %}
 <img src="https://i.imgur.com/qvejjHk.jpg" alt="" width="350"/>
 <img src="https://i.imgur.com/098KPOY.png" alt="" width="350"/>
 {% endgp %}
-```
 
 
 ## 特點
@@ -76,17 +74,14 @@ date: 2021-01-29 20:37:00
 
 
 ## 運作流程
-
-```
 {% note success %}
 框架並自定義一個`OneThreadSynchronizationContext`類，在有異步回調到來的時候保存delegate和參數到一個多線安全的Queue，然後一個While True 迴圈不停調用`OneThreadSynchronizationContext.Update`，在主線程中取出本次主循環產生的所有異步回調，從而保證了所有的回調函數都被捕捉到單一主線程執行。
 {% endnote %}
-```
 
-```
+
 **{% label success@
 該框架進入點為`app.proj` 裡面只有一個帶 main的program類型，啟動之後主要分以下四個流程 %}**
-```
+
 
 ### 第一步
 首先註冊 Model程序集中提供的各種基礎 Model類，隨後加載 Hotfix中可以熱更新的類型並且註冊到`EventSystem`。一方面是提供IAwake、ILoad、IUpdate 等等介面中的事件處理，一方面檢索各類 Attribute並且註冊到相應容器中以便後續查找。
