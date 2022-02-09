@@ -7,7 +7,6 @@ categories:
 - 技術文件
 ---
 
-# 使用 SHFB 自動化建立 Assembly 的 Help 文件
 
 * SHFB：Sandcastle Help File Builder
 * 一套能動態產生 MSDN Style 文件的工具
